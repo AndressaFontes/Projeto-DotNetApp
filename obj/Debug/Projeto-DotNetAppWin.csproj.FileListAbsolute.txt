@@ -1,0 +1,9 @@
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Projeto-DotNetAppWin.exe.config
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Projeto-DotNetAppWin.exe
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Projeto-DotNetAppWin.pdb
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.csproj.AssemblyReference.cache
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto_DotNetAppWin.Properties.Resources.resources
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.csproj.GenerateResource.cache
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.csproj.CoreCompileInputs.cache
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.exe
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.pdb
