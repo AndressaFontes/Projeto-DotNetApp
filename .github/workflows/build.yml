@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 name: Build and Test C# Project
 
 on:
@@ -32,4 +32,3 @@ jobs:
     - name: Run tests
       run: |
         vstest.console.exe **\*Test*.dll
-        
