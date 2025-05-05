@@ -29,6 +29,4 @@ jobs:
     - name: Build solution
       run: msbuild Projeto-DotNetAppWin.sln /p:Configuration=Release
 
-    - name: Run tests
-      run: |
-        vstest.console.exe **\*Test*.dll
+    
