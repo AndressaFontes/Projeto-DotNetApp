@@ -1,7 +1,9 @@
 ## Compilados do .NET
-bin/
-obj/
-out/
+.bin/
+.obj/
+.out/
+.vs/
+.dll/
 
 ## Pacotes
 *.nupkg
