@@ -26,5 +26,7 @@ jobs:
       run: nuget restore Projeto-DotNetAppWin.sln
 
     - name: Build solution
-      run: msbuild Projeto-DotNetAppWin.sln /p:Configuration=Release
+      run: msbuild Projeto-DotNetAppWin\Projeto-DotNetAppWin.csproj /p:Configuration=Release
+
+     
       
