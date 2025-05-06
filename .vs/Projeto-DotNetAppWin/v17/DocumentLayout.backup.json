@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B78FF4AE-2953-4729-9FE1-E1813E3CE65F}|Projeto-DotNetAppWin.csproj|c:\\users\\a.fontes.da.cunha\\source\\repos\\projeto-dotnetappwin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B78FF4AE-2953-4729-9FE1-E1813E3CE65F}|Projeto-DotNetAppWin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B78FF4AE-2953-4729-9FE1-E1813E3CE65F}|Projeto-DotNetAppWin.csproj|C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78FF4AE-2953-4729-9FE1-E1813E3CE65F}|Projeto-DotNetAppWin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B78FF4AE-2953-4729-9FE1-E1813E3CE65F}|Projeto-DotNetAppWin.csproj|c:\\users\\a.fontes.da.cunha\\source\\repos\\projeto-dotnetappwin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B78FF4AE-2953-4729-9FE1-E1813E3CE65F}|Projeto-DotNetAppWin.csproj|C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B78FF4AE-2953-4729-9FE1-E1813E3CE65F}|Projeto-DotNetAppWin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:57:38.497Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +29,21 @@
               "ToolTip": "C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:57:07.655Z",
+              "WhenOpened": "2025-05-06T02:15:31.383Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\a.fontes.da.cunha\\source\\repos\\Projeto-DotNetAppWin\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:15:34.463Z",
+              "EditorCaption": ""
             }
           ]
         }

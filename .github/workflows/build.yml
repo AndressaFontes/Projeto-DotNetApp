@@ -28,5 +28,7 @@ jobs:
 
     - name: Build solution
       run: msbuild Projeto-DotNetAppWin.sln /p:Configuration=Release
+      env:
+        AGITHUB_TOKEN: ${{ secrets.AGITHUB_TOKEN }}
 
     

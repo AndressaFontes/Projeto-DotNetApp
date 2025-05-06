@@ -1,9 +1,16 @@
 ﻿using System;
+using System.Windows.Forms;
 
-class Program
+namespace Projeto_DotNetAppWin
 {
-    static void Main()
+    static class Program
     {
-        Console.WriteLine("Olá mundo! Meu código funciona!");
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Frm_HelloActions());
+        }
     }
 }
