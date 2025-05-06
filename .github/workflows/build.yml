@@ -1,4 +1,3 @@
-
 name: Build and Test C# Project
 
 on:
@@ -24,14 +23,8 @@ jobs:
       uses: NuGet/setup-nuget@v1
 
     - name: Restore NuGet packages
-      run: nuget restore Projeto-DotNetAppWin.sln
+      run: nuget restore Projeto-DotNetAppWin/Projeto-DotNetAppWin.sln
 
     - name: Build solution
-      run: msbuild Projeto-DotNetAppWin.sln /p:Configuration=Release
+      run: msbuild Projeto-DotNetAppWin/Projeto-DotNetAppWin.sln /p:Configuration=Release
       
-    - name: Echo the secret
-      env:
-        AGITHUB_TOKEN: ${{ secrets.AGITHUB_TOKEN }}
-      run: echo "The secret token is set (value hidden for security)."
-
-    
