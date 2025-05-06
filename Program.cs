@@ -10,7 +10,7 @@ namespace Projeto_DotNetAppWin
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_HelloActions());
+            Application.Run(new Form());
         }
     }
 }

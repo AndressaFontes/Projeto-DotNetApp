@@ -7,10 +7,10 @@ C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-D
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.csproj.CoreCompileInputs.cache
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.exe
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-DotNetAppWin.pdb
-C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto_DotNetAppWin.Frm_HelloActions.resources
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Newtonsoft.Json.Bson.dll
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Newtonsoft.Json.dll
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Newtonsoft.Json.xml
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Newtonsoft.Json.Bson.pdb
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\bin\Debug\Newtonsoft.Json.Bson.xml
 C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\Projeto-.09D42F82.Up2Date
+C:\Users\a.fontes.da.cunha\source\repos\Projeto-DotNetAppWin\obj\Debug\WindowsFormsApp1teste.Form1.resources
