@@ -28,7 +28,10 @@ jobs:
 
     - name: Build solution
       run: msbuild Projeto-DotNetAppWin.sln /p:Configuration=Release
+      
+    - name: Echo the secret
       env:
         AGITHUB_TOKEN: ${{ secrets.AGITHUB_TOKEN }}
+      run: echo "The secret token is set (value hidden for security)."
 
     
