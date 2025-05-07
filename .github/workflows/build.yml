@@ -1,32 +1,35 @@
-name: Build and Test C# Project
+name: .NET Framework Windows Forms Build
 
 on:
   push:
-    branches:
-      - master
+    branches: [ "main" ]
   pull_request:
-    branches:
-      - master
+    branches: [ "main" ]
 
 jobs:
   build:
     runs-on: windows-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
     - name: Setup MSBuild
-      uses: microsoft/setup-msbuild@v1
+      uses: microsoft/setup-msbuild@v2
 
     - name: Setup NuGet
-      uses: NuGet/setup-nuget@v1
+      uses: NuGet/setup-nuget@v2
+      with:
+        nuget-version: 'latest'
 
     - name: Restore NuGet packages
-      run: nuget restore Projeto-DotNetAppWin.sln
+      run: nuget restore testeprojeto.sln 
+    - name: Build the application
+      run: msbuild testeprojeto.sln /p:Configuration=Release /p:Platform="Any CPU" 
 
-    - name: Build solution
-      run: msbuild Projeto-DotNetAppWin.sln /p:Configuration=Release
-
-     
-      
+    # Opcional: Empacotar os artefatos de build
+    # - name: Upload build artifacts
+    #   uses: actions/upload-artifact@v4
+    #   with:
+    #     name: winforms-app
+    #     path: path/to/your/build/output # Substitua pelo caminho da sua pasta de saída de build (ex: YourProject/bin/Release)
